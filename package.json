@@ -1,14 +1,18 @@
 {
   "name": "web-rustacean",
-  "displayName": "Rustacean on Web",
+  "displayName": "Rustacean Web Kit",
   "description": "for web and rust developer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "repository": "git@github.com:ofzo/vscode-web-rust-ext-pack.git",
+  "license": "MIT",
+  "publisher": "roadup",
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
   "extensionPack": [
     "aaron-bond.better-comments",
     "christian-kohler.npm-intellisense",
@@ -32,6 +36,7 @@
     "tamasfe.even-better-toml",
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode",
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "vadimcn.vscode-lldb"
   ]
 }
