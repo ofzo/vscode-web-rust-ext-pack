@@ -1,0 +1,37 @@
+{
+  "name": "web-rustacean",
+  "displayName": "Rustacean on Web",
+  "description": "for web and rust developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "christian-kohler.npm-intellisense",
+    "dzannotti.vscode-babel-coloring",
+    "eamodio.gitlens",
+    "humao.rest-client",
+    "idered.npm",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.hexeditor",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.vscode-typescript-next",
+    "roadup.sky-light",
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates",
+    "sibiraj-s.vscode-scss-formatter",
+    "tamasfe.even-better-toml",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
