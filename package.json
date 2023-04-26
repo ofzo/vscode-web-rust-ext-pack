@@ -2,7 +2,7 @@
   "name": "web-rustacean",
   "displayName": "Rustacean Web Kit",
   "description": "for web and rust developer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -37,6 +37,9 @@
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "VisualStudioExptTeam.vscodeintellicode",
     "vscode-icons-team.vscode-icons",
-    "vadimcn.vscode-lldb"
+    "vadimcn.vscode-lldb",
+    "github.vscode-github-actions",
+    "GitHub.vscode-pull-request-github",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
